@@ -3,7 +3,7 @@
 Submitted by: **Caitlin Saunders**
 
 **Caitlin's App** is an app that... displays varying colors when buttons are interacted with. 
-![](https://imgur.com/a/glDTXBR.gif)
+![](https://i.imgur.com/pcA3fpS.mp4.gif)
 
 Time spent: **.5** hours spent in total
 

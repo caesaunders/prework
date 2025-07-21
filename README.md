@@ -3,7 +3,15 @@
 Submitted by: **Caitlin Saunders**
 
 **Caitlin's App** is an app that... displays varying colors when buttons are interacted with. 
-![Demo](https://i.imgur.com/pcA3fpS.gif)
+
+<div>
+    <a href="https://www.loom.com/share/ee78ac8e907d40e190ae9a769a9f7adb">
+      <p>iOS Prework - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/ee78ac8e907d40e190ae9a769a9f7adb">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/ee78ac8e907d40e190ae9a769a9f7adb-1967aa480caea030-full-play.gif">
+    </a>
+  </div>
 
 Time spent: **.5** hours spent in total
 
